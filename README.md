@@ -1,0 +1,2 @@
+# Instabot
+A beautiful Bot
